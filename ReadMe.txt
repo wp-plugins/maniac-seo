@@ -1,5 +1,5 @@
 === Maniac SEO ===
-Contributors: web-master.guru
+Contributors: Alessandro Peruch
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=super@web-master.guru¤cy_code=EUR&item_name=Donate%20Maniac%20SEO%20Wordpress%20sito&amount=0
 Tags: SEO, Analyzer SEO
 Requires at least: 0.1
@@ -7,17 +7,20 @@ Tested up to: 0.1
 Stable tag: stable
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: seo, SEM, Maniac SEO, google, meta, meta description, search engine optimization, yahoo, bing, WordPress SEO, multisite, keywords, meta keywords, description, webmaster tools, google webmaster tools, seo pack, backlink, checker, backlink checker, keyword suggest, keywords density, keyword position, social url, social, social url analytics, page rank, page rank checker, plagiarism checker, seo analyzer.
 
-Inserts Maniac SEO into your WordPress Website for more efficient SEO results. Optimize your site. Tool: Backlink Checker, keyword suggest, Keywords density, Keyword Position, Social URL Analytics, Page Rank Checker, Plagiarism Checker, SEO Analyzer,...
+Optimize your Website with Tool: Backlink Checker, keyword suggest, Keywords density, Keyword Position, Social URL Analytics, Page Rank Checker, Plagiarism Checker, SEO Analyzer,...
 Maniac SEO tool check web site, blog is everyday use, handy tool for webmaster, bloger and SEO expert.
 
 == Description ==
 
 
-Easily optimize your WordPress site with one plugin, it is the most complete SEO plugin available for WordPress. It offers everything you need to optimize your site. Tool: Backlink Checker, keyword suggest, Keywords density, Keyword Position, Social URL Analytics, Page Rank Checker, Plagiarism Checker, SEO Analyzer,...
-Maniac SEO tool check web site, blog is everyday use, handy tool for webmaster, bloger and SEO expert.
+Easily <strong>optimize your WordPress Website</strong> with one plugin for more efficient SEO results, it is the most complete SEO plugin available for WordPress. It offers everything you need to optimize your site. Tool: <strong>Backlink Checker, keyword suggest, Keywords density, Keyword Position, Social URL Analytics, Page Rank Checker, Plagiarism Checker, SEO Analyzer,...</strong>
+Maniac SEO tool <strong>check web site, blog</strong> is everyday use, handy tool for webmaster, bloger and SEO expert.
 
 Free Maniac SEO Analyzer tools website but easy to use, just enter your website in the given box; you will get a report in English. This free tool allows you to get important information on the content of your web page: title tag, description tag, word density, Links, images...
+
+https://www.youtube.com/watch?v=xNDzqScertI
 
 The plugin SEO Manic send your requests to the site www.web-master.guru that works and returns the results in your plugin.
 
@@ -30,23 +33,36 @@ The upgarde not add any more to function in your plugin, you only have more data
 To your requests we are not added nor images neither text nor advertising.
 
 The plug-in local (127.0.0.1 / localhost) does not work completely
+More info:  [Wordpress SEO](http://www.web-master.guru/wordpress/wordpress-seo-plugin-maniac-seo.html).
+
+= Further Reading =
+For more info, check out the following articles:
+
+* The [Maniac SEO](http://www.web-master.guru/wordpress/wordpress-seo-plugin-maniac-seo.html).
+* [Free SEO tools online](http://www.web-master.guru/seo.html).
+* Free [SEO Analyzer](http://www.web-master.guru/seo/seo-analyzer-tool.html).
+
+= Tags = 
+seo, SEM, Maniac SEO, google, meta, meta description, search engine optimization, yahoo, bing, WordPress SEO, multisite, keywords, meta keywords, description, webmaster tools, google webmaster tools, seo pack, backlink, checker, backlink checker, keyword suggest, keywords density, keyword position, social url, social, social url analytics, page rank, page rank checker, plagiarism checker, seo analyzer.
+
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Upload `wp-maniac-seo` folder to the `/wp-content/plugins/` directory
+1. Activate the Maniac SEO through the 'Plugins' menu in WordPress
+1. Auto-configure
 
 == Frequently asked questions ==
 
-= A question that someone might have =
+You'll find the [FAQ on www.web-master.guru](http://www.web-master.guru/seo-tool-online-check.html).
 
-An answer to that question.
+https://www.youtube.com/watch?v=xNDzqScertI
 
 == Screenshots ==
 
 1.Siteweb original: [Analyzer SEO](http://www.web-master.guru/wordpress/wordpress-seo-plugin-maniac-seo.html)
 2.Video for plugin Maniac SEO:  [Maniac SEO for Wordpress](https://www.youtube.com/watch?v=xNDzqScertI)
+3 https://www.youtube.com/watch?v=xNDzqScertI
 
 == Changelog ==
 
