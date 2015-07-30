@@ -1,13 +1,13 @@
 === Maniac SEO ===
 Contributors: Alessandro Peruch
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=super@web-master.guru¤cy_code=EUR&item_name=Donate%20Maniac%20SEO%20Wordpress%20sito&amount=0
-Tags: SEO, Analyzer SEO
+Tags: seo, SEM, Maniac SEO, google, meta, meta description, search engine optimization, yahoo, bing, WordPress SEO, multisite, keywords, meta keywords, description, webmaster tools, google webmaster tools, seo pack, backlink, checker, backlink checker, keyword suggest, keywords density, keyword position, social url, social, social url analytics, page rank, page rank checker, plagiarism checker, seo analyzer
 Requires at least: 0.1
 Tested up to: 0.1
 Stable tag: stable
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: seo, SEM, Maniac SEO, google, meta, meta description, search engine optimization, yahoo, bing, WordPress SEO, multisite, keywords, meta keywords, description, webmaster tools, google webmaster tools, seo pack, backlink, checker, backlink checker, keyword suggest, keywords density, keyword position, social url, social, social url analytics, page rank, page rank checker, plagiarism checker, seo analyzer.
+
 
 Optimize your Website with Tool: Backlink Checker, keyword suggest, Keywords density, Keyword Position, Social URL Analytics, Page Rank Checker, Plagiarism Checker, SEO Analyzer,...
 Maniac SEO tool check web site, blog is everyday use, handy tool for webmaster, bloger and SEO expert.
