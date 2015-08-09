@@ -3,7 +3,7 @@ Contributors: Alessandro Peruch
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=super@web-master.guru¤cy_code=EUR&item_name=Donate%20Maniac%20SEO%20Wordpress%20sito&amount=0
 Tags: seo, SEM, Maniac SEO, google, meta, meta description, search engine optimization, yahoo, bing, WordPress SEO, multisite, keywords, meta keywords, description, webmaster tools, google webmaster tools, seo pack, backlink, checker, backlink checker, keyword suggest, keywords density, keyword position, social url, social, social url analytics, page rank, page rank checker, plagiarism checker, seo analyzer
 Requires at least: 0.1
-Tested up to: 0.1
+Tested up to: 4.3
 Stable tag: stable
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=xNDzqScertI
 == Changelog ==
 
 * First release.
-
+* It is okay Worpress 4.3
 
 == Upgrade notice ==
 
